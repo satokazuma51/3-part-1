@@ -9,8 +9,3 @@ Deployment
 Deploy the contract using a Solidity-compatible development environment such as Hardhat, Truffle, or Remix.
 
 Use MetaMask to interact with the contract on a testnet.
-
-LICENSE
-
-This project is licensed under the MIT License.
-
